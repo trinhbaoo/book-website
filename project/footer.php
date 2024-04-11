@@ -3,18 +3,17 @@
    <div class="box-container">
 
       <div class="box">
-         <h3>quick links</h3>
-         <a href="home.php">home</a>
-         <a href="about.php">about</a>
-         <a href="shop.php">shop</a>
-         <a href="contact.php">contact</a>
+         <h3>ĐƯỜNG DẪN NHANH</h3>
+         <a href="home.php">Trang chủ</a>
+         <a href="shop.php">Cửa hàng</a>
+         <a href="contact.php">Liên hệ</a>
       </div>
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="login.php">login</a>
-         <a href="register.php">register</a>
-         <a href="cart.php">cart</a>
+         <h3>LIÊN KẾT BỔ SUNG</h3>
+         <a href="login.php">Đăng nhập</a>
+         <a href="register.php">Đăng ký</a>
+         <a href="cart.php">Giỏ hàng</a>
          <a href="orders.php">orders</a>
       </div>
 
@@ -36,6 +35,5 @@
 
    </div>
 
-   <p class="credit"> &copy; copyright  @ <?php echo date('Y'); ?> by <span>mr. web designer</span> </p>
 
 </section>

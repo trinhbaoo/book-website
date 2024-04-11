@@ -282,7 +282,7 @@ section{
 
 .header .header-2 .flex .logo{
    font-size: 2.5rem;
-   color:var(--purple);
+   color:var(#9dc1aa);
 }
 
 .header .header-2 .flex .navbar a{
@@ -898,7 +898,7 @@ section{
 
 .footer .box-container .box p i,
 .footer .box-container .box a i{
-   color:var(--purple);
+   color:var(#5d7f85);
    padding-right: .5rem;
 }
 
