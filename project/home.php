@@ -52,9 +52,9 @@ if(isset($_POST['add_to_cart'])){
 <section class="home">
 
    <div class="content">
-      <h3>Tại đây chúng tôi có những cuốn sách hay</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
-      <a href="about.php" class="white-btn">discover more</a>
+      <h3>Đọc sách hôm nay, thành công mai sau. </h3>
+      <p>Đọc sách là một nghệ thuật tích cực, giàu trí tưởng tượng và cần cả sự nỗ lực.</p>
+      <a href="about.php" class="white-btn">Đọc</a>
    </div>
 
 </section>
@@ -103,9 +103,9 @@ if(isset($_POST['add_to_cart'])){
       </div>
 
       <div class="content">
-         <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
-         <a href="about.php" class="btn">read more</a>
+         <h3>Catherynne M. Valente</h3>
+         <p>Đọc sách là liều thuốc kích thích sự phát triển của trái tim và tâm hồn hơn bất kỳ phương pháp chữa lành nào khác.</p>
+         <a href="about.php" class="btn">Đọc</a>
       </div>
 
    </div>
@@ -115,9 +115,8 @@ if(isset($_POST['add_to_cart'])){
 <section class="home-contact">
 
    <div class="content">
-      <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
-      <a href="contact.php" class="white-btn">contact us</a>
+      <p>Cả đọc và viết đều là những trải nghiệm suốt đời. Độc giả sẽ tiếp cận với vô vàn từ ngữ theo nhiều cách khác nhau, ngôn từ này sẽ dần dần thuyết phục tâm trí và hiện diện trong trái tim và bạn sẽ tiếp thu chúng như nguồn sức mạnh và trí tưởng tượng phong phú</p>
+      <a href="contact.php" class="white-btn">Đọc</a>
    </div>
 
 </section>

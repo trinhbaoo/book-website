@@ -27,11 +27,11 @@ if(isset($message)){
 
    <div class="header-2">
       <div class="flex">
-         <a href="home.php" class="logo">BBook.</a>
+         <a href="home.php" class="logo">B_STORE.</a>
 
          <nav class="navbar">
             <a href="home.php">Trang Chủ</a>
-            <a href="about.php">about</a>
+            <a href="about.php">Đọc sách/truyện</a>
             <a href="shop.php">Cửa Hàng</a>
             <a href="contact.php">contact</a>
             <a href="orders.php">Đơn hàng</a>
