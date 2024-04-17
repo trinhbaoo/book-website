@@ -105,8 +105,8 @@ if(isset($_POST['update_add'])){
 
    <form action="" method="post" enctype="multipart/form-data">
       <h3>add </h3>
-      <input type="text" name="name" class="box" placeholder="enter add name" required>
-      <input type="file" name="image" accept="image/jpg, image/jpeg, image/png" class="box" required>
+      <input type="nội dung" name="name" class="box" placeholder="enter add name" required>
+      <input type="ảnh" name="image" accept="image/jpg, image/jpeg, image/png" class="box" required>
       <input type="submit" value="add product" name="add_product" class="btn">
    </form>
 
