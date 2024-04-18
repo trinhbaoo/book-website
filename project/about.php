@@ -18,28 +18,30 @@ if(!isset($user_id)){
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Đọc</title>
+   <title>User Contents</title>
 
-   <!-- font awesome cdn link  -->
+   <!-- Font Awesome CDN link -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-   <!-- custom css file link  -->
-   <link rel="stylesheet" href="css/style.css">
+   <!-- Custom CSS file link -->
+   <link rel="stylesheet" href="css/user_style.css">
 
+   <style>
+      .content-box {
+         border: 1px solid #ccc;
+         margin-bottom: 20px;
+         padding: 10px;
+         font-size: 25px; 
+      }
+   </style>
 </head>
 <body>
-   
-<?php include 'header.php'; ?>
+   <h1>User Contents</h1>
+   <div class="content-container">
+      <?php include 'admin_add.php'; ?>
+   </div>
 
-<div class="heading">
-   <h3>Đọc</h3>
-   <p> <a href="home.php">Trang chủ</a></p>
-</div>
-
-<?php include 'footer.php'; ?>
-
-<!-- custom js file link  -->
-<script src="js/script.js"></script>
-
+   <!-- Custom admin js file link -->
+   <script src="js/user_script.js"></script>
 </body>
 </html>
